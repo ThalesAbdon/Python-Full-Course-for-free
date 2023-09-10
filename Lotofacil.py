@@ -15,7 +15,7 @@ listaT3 = [1, 4, 5, 6, 8, 9, 11, 12, 16, 19, 202, 21, 23, 24, 25]
 numeros_iguais = 0
 
 for numero in sorteados_ordenados:
-    if numero in lista:
+    if numero in lista1:
         numeros_iguais += 1
 
 print(f"Número de números iguais: {numeros_iguais}")
