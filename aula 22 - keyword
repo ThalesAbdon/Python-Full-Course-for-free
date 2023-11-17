@@ -1,0 +1,5 @@
+def oi(first, middle, last):
+    print("Oi "+first+" " + middle + " " + last)
+
+
+oi(last="Sousa", middle="Abdon", first="Thales")
